@@ -6,7 +6,7 @@ tags:
   - provider/aws
 ---
 
-# Component: `datadog`
+# Component: `datadog-credentials`
 
 This component is responsible for provisioning SSM or ASM entries for Datadog API keys.
 
