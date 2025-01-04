@@ -5,5 +5,3 @@ repository:
   description: This component is responsible for provisioning SSM or ASM entries for Datadog API keys
   homepage: https://cloudposse.com/accelerate
   topics: terraform, terraform-component
-
-
