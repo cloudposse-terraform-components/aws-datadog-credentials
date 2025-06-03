@@ -16,7 +16,7 @@ provider "aws" {
 }
 
 module "iam_roles_datadog_secrets" {
-  source  = "../account-map/modules/iam-roles"
+  source  = "github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles?ref=tags/v1.535.3"
   stage   = var.datadog_secrets_source_store_account_stage
   tenant  = var.datadog_secrets_source_store_account_tenant
   context = module.this.context
