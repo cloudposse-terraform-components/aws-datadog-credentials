@@ -15,6 +15,6 @@ provider "aws" {
 }
 
 module "iam_roles" {
-  source  = "github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles?ref=tags/v1.535.3"
+  source  = "github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles?ref=v1.535.3"
   context = module.this.context
 }
