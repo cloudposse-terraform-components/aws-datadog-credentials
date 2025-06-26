@@ -82,13 +82,13 @@ provider "datadog" {
 | Name | Version |
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.0.0 |
-| <a name="requirement_aws"></a> [aws](#requirement\_aws) | >= 4.9.0 |
+| <a name="requirement_aws"></a> [aws](#requirement\_aws) | >= 4.9.0, < 6.0.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| <a name="provider_aws.api_keys"></a> [aws.api\_keys](#provider\_aws.api\_keys) | >= 4.9.0 |
+| <a name="provider_aws.api_keys"></a> [aws.api\_keys](#provider\_aws.api\_keys) | >= 4.9.0, < 6.0.0 |
 
 ## Modules
 
