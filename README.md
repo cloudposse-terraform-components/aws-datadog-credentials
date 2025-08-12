@@ -113,8 +113,8 @@ provider "datadog" {
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_iam_roles"></a> [iam\_roles](#module\_iam\_roles) | github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles | v1.535.4 |
-| <a name="module_iam_roles_datadog_secrets"></a> [iam\_roles\_datadog\_secrets](#module\_iam\_roles\_datadog\_secrets) | github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles | v1.535.4 |
+| <a name="module_iam_roles"></a> [iam\_roles](#module\_iam\_roles) | github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles | v1.535.5 |
+| <a name="module_iam_roles_datadog_secrets"></a> [iam\_roles\_datadog\_secrets](#module\_iam\_roles\_datadog\_secrets) | github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles | v1.535.5 |
 | <a name="module_store_write"></a> [store\_write](#module\_store\_write) | cloudposse/ssm-parameter-store/aws | 0.13.0 |
 | <a name="module_this"></a> [this](#module\_this) | cloudposse/label/null | 0.25.0 |
 
