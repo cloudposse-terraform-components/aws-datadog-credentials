@@ -25,7 +25,6 @@ This module also has a submodule which allows other resources to quickly use it 
 
 See Datadog's [documentation about provisioning keys](https://docs.datadoghq.com/account_management/api-app-keys) for
 more information.
-
 ## Usage
 
 **Stack Level**: Global
@@ -76,7 +75,10 @@ provider "datadog" {
 ```
 
 <!-- prettier-ignore-start -->
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- prettier-ignore-end -->
+
+
+<!-- markdownlint-disable -->
 ## Requirements
 
 | Name | Version |
@@ -155,13 +157,19 @@ provider "datadog" {
 | <a name="output_datadog_secrets_store_type"></a> [datadog\_secrets\_store\_type](#output\_datadog\_secrets\_store\_type) | The type of the secrets store to use for Datadog API and APP keys |
 | <a name="output_datadog_site"></a> [datadog\_site](#output\_datadog\_site) | The Datadog site to use |
 | <a name="output_region"></a> [region](#output\_region) | The region where the keys will be created |
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
-<!-- prettier-ignore-end -->
+<!-- markdownlint-restore -->
+
+
 
 ## References
 
-- Datadog's [documentation about provisioning keys](https://docs.datadoghq.com/account_management/api-app-keys)
-- [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components/tree/main/modules/datadog-configuration) -
-  Cloud Posse's upstream component
+
+- [Datadog's documentation about provisioning keys](https://docs.datadoghq.com/account_management/api-app-keys) - 
+
+- [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components/tree/main/modules/datadog-configuration) - Cloud Posse's upstream component
+
+
+
 
 [<img src="https://cloudposse.com/logo-300x69.svg" height="32" align="right"/>](https://cpco.io/homepage?utm_source=github&utm_medium=readme&utm_campaign=cloudposse-terraform-components/aws-datadog-credentials&utm_content=)
+
