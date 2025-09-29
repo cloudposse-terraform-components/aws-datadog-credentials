@@ -53,12 +53,11 @@ more information.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cloudposse.com/images/partners/datadog-white.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cloudposse.com/images/partners/datadog-purple.svg">
-  <img alt="Datadog" src="https://cloudposse.com/images/partners/datadog-purple.svg" align="right" width="30%">
+  <img alt="Datadog" src="https://cloudposse.com/images/partners/datadog-purple.svg" align="right" width="31%">
 </picture>
 
 
 This project is supported by the [Datadog Open Source Program](https://www.datadoghq.com/partner/open-source/).
-
 As part of this collaboration, Datadog generously provides a dedicated sandbox account that we use for automated integration and acceptance testing.
 This ensures all changes are continuously validated against a real Datadog environment, improving reliability and reducing the risk of regressions.
 
