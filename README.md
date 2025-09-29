@@ -53,7 +53,7 @@ more information.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cloudposse.com/images/partners/datadog-white.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cloudposse.com/images/partners/datadog-purple.svg">
-  <img alt="Datadog" src="https://cloudposse.com/images/partners/datadog-purple.svg"  align="right", style="visibility: visible;max-width: 300px;">
+  <img alt="Datadog" src="https://cloudposse.com/images/partners/datadog-purple.svg" align="right" width="30%">
 </picture>
 
 
