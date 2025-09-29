@@ -38,6 +38,7 @@ more information.
 This project is supported by the [Datadog Open Source Program](https://www.datadoghq.com/partner/open-source/).
 As part of this collaboration, Datadog generously provides a dedicated sandbox account that we use for automated integration and acceptance testing.
 This ensures all changes are continuously validated against a real Datadog environment, improving reliability and reducing the risk of regressions.
+
 --
 ## Usage
 
