@@ -50,18 +50,9 @@ more information.
 
 ## Sponsorship
 
-<table>
-  <tr>
-    <td>
-      <img src="https://imgix.datadoghq.com/img/about/presskit/usage/logousage_purple.png?auto=format&fit=max&w=847&dpr=2" alt="Datadog Logo" width="200">
-    </td>
-    <td>
-      This project is supported by the <a href="https://www.datadoghq.com/partner/open-source/">Datadog Open Source Program</a>.
-      As part of this collaboration, Datadog generously provides a dedicated sandbox account that we use for automated integration and acceptance testing.
-      This ensures all changes are continuously validated against a real Datadog environment, improving reliability and reducing the risk of regressions.
-    </td>
-  </tr>
-</table>
+This project is supported by the [Datadog Open Source Program](https://www.datadoghq.com/partner/open-source/).
+As part of this collaboration, Datadog generously provides a dedicated sandbox account that we use for automated integration and acceptance testing.
+This ensures all changes are continuously validated against a real Datadog environment, improving reliability and reducing the risk of regressions.
 
 
 > [!TIP]
