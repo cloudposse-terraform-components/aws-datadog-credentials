@@ -21,6 +21,12 @@ description: |-
   See Datadog's [documentation about provisioning keys](https://docs.datadoghq.com/account_management/api-app-keys) for
   more information.
 
+  ## Sponsorship
+
+  This project is supported by the [Datadog Open Source Program](https://www.datadoghq.com/partner/open-source/).
+  As part of this collaboration, Datadog generously provides a dedicated sandbox account that we use for automated integration and acceptance testing.
+  This ensures all changes are continuously validated against a real Datadog environment, improving reliability and reducing the risk of regressions.
+
 usage: |-
   **Stack Level**: Global
 
@@ -100,6 +106,9 @@ badges:
   - name: Slack Community
     image: https://slack.cloudposse.com/for-the-badge.svg
     url: https://slack.cloudposse.com
+  - name: Sponsored by Datadog
+    image: https://img.shields.io/badge/Sponsored-Datadog?style=social&logo=datadog&label=Datadog&labelColor=%23632CA6&color=%23632CA6
+    url: #Sponsored
 related:
   - name: "Cloud Posse Terraform Modules"
     description: Our collection of reusable Terraform modules used by our reference architectures.

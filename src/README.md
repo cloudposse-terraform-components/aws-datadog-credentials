@@ -25,6 +25,12 @@ This module also has a submodule which allows other resources to quickly use it 
 
 See Datadog's [documentation about provisioning keys](https://docs.datadoghq.com/account_management/api-app-keys) for
 more information.
+
+## Sponsorship
+
+This project is supported by the [Datadog Open Source Program](https://www.datadoghq.com/partner/open-source/).
+As part of this collaboration, Datadog generously provides a dedicated sandbox account that we use for automated integration and acceptance testing.
+This ensures all changes are continuously validated against a real Datadog environment, improving reliability and reducing the risk of regressions.
 ## Usage
 
 **Stack Level**: Global
