@@ -26,11 +26,20 @@ This module also has a submodule which allows other resources to quickly use it 
 See Datadog's [documentation about provisioning keys](https://docs.datadoghq.com/account_management/api-app-keys) for
 more information.
 
-## Sponsorship ![Static Badge](https://img.shields.io/badge/Sponsored-test?style=social&logo=datadog&label=Datadog&labelColor=%23632CA6&color=%23632CA6)
+## Sponsorship
 
-This project is supported by the [Datadog Open Source Program](https://www.datadoghq.com/partner/open-source/).
-As part of this collaboration, Datadog generously provides a dedicated sandbox account that we use for automated integration and acceptance testing.
-This ensures all changes are continuously validated against a real Datadog environment, improving reliability and reducing the risk of regressions.
+<table>
+  <tr>
+    <td>
+      <img src="https://imgix.datadoghq.com/img/about/presskit/usage/logousage_purple.png?auto=format&fit=max&w=847&dpr=2" alt="Datadog Logo" width="200">
+    </td>
+    <td>
+      This project is supported by the <a href="https://www.datadoghq.com/partner/open-source/">Datadog Open Source Program</a>.
+      As part of this collaboration, Datadog generously provides a dedicated sandbox account that we use for automated integration and acceptance testing.
+      This ensures all changes are continuously validated against a real Datadog environment, improving reliability and reducing the risk of regressions.
+    </td>
+  </tr>
+</table>
 ## Usage
 
 **Stack Level**: Global
