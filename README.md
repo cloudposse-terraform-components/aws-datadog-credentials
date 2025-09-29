@@ -4,7 +4,7 @@
 <a href="https://cpco.io/homepage"><img src="https://github.com/cloudposse-terraform-components/aws-datadog-credentials/blob/main/.github/banner.png?raw=true" alt="Project Banner"/></a><br/>
 
 
-<p align="right"><a href="https://github.com/cloudposse-terraform-components/aws-datadog-credentials/releases/latest"><img src="https://img.shields.io/github/release/cloudposse-terraform-components/aws-datadog-credentials.svg?style=for-the-badge" alt="Latest Release"/></a><a href="https://slack.cloudposse.com"><img src="https://slack.cloudposse.com/for-the-badge.svg" alt="Slack Community"/></a><a href="%!s(<nil>)"><img src="https://img.shields.io/badge/Sponsored-Datadog?style=social&logo=datadog&label=Datadog&labelColor=%23632CA6&color=%23632CA6" alt="Sponsored by Datadog"/></a><a href="https://cloudposse.com/support/"><img src="https://img.shields.io/badge/Get_Support-success.svg?style=for-the-badge" alt="Get Support"/></a>
+<p align="right"><a href="https://github.com/cloudposse-terraform-components/aws-datadog-credentials/releases/latest"><img src="https://img.shields.io/github/release/cloudposse-terraform-components/aws-datadog-credentials.svg?style=for-the-badge" alt="Latest Release"/></a><a href="https://slack.cloudposse.com"><img src="https://slack.cloudposse.com/for-the-badge.svg" alt="Slack Community"/></a><a href="https://cloudposse.com/support/"><img src="https://img.shields.io/badge/Get_Support-success.svg?style=for-the-badge" alt="Get Support"/></a>
 
 </p>
 <!-- markdownlint-restore -->

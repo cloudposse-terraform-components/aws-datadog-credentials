@@ -106,9 +106,6 @@ badges:
   - name: Slack Community
     image: https://slack.cloudposse.com/for-the-badge.svg
     url: https://slack.cloudposse.com
-  - name: Sponsored by Datadog
-    image: https://img.shields.io/badge/Sponsored-Datadog?style=social&logo=datadog&label=Datadog&labelColor=%23632CA6&color=%23632CA6
-    url: #Sponsored
 related:
   - name: "Cloud Posse Terraform Modules"
     description: Our collection of reusable Terraform modules used by our reference architectures.
