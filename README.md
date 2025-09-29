@@ -48,7 +48,7 @@ This module also has a submodule which allows other resources to quickly use it 
 See Datadog's [documentation about provisioning keys](https://docs.datadoghq.com/account_management/api-app-keys) for
 more information.
 
-## Sponsorship
+## Sponsorship ![Static Badge](https://img.shields.io/badge/Sponsored-test?style=social&logo=datadog&label=Datadog&labelColor=%23632CA6&color=%23632CA6)
 
 This project is supported by the [Datadog Open Source Program](https://www.datadoghq.com/partner/open-source/).
 As part of this collaboration, Datadog generously provides a dedicated sandbox account that we use for automated integration and acceptance testing.
@@ -74,7 +74,8 @@ This ensures all changes are continuously validated against a real Datadog envir
 
 **Stack Level**: Global
 
-> [!WARNING] This is subject to change from a **Global** to a **Regional** stack level. This is because we need the keys
+> [!WARNING]
+> This is subject to change from a **Global** to a **Regional** stack level. This is because we need the keys
 > in each region where we deploy datadog resources - so that we don't need to configure extra AWS Providers (which would
 > need to be dynamic - which we cannot do). This is a limitation of Terraform.
 
