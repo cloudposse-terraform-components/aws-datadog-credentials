@@ -28,7 +28,9 @@ provider "datadog" {
 ```
 
 <!-- prettier-ignore-start -->
+
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- markdownlint-disable -->
 ## Requirements
 
 | Name | Version |
@@ -48,7 +50,7 @@ provider "datadog" {
 |------|--------|---------|
 | <a name="module_always"></a> [always](#module\_always) | cloudposse/label/null | 0.25.0 |
 | <a name="module_datadog_configuration"></a> [datadog\_configuration](#module\_datadog\_configuration) | cloudposse/stack-config/yaml//modules/remote-state | 1.8.0 |
-| <a name="module_iam_roles"></a> [iam\_roles](#module\_iam\_roles) | github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles | v1.535.5 |
+| <a name="module_iam_roles"></a> [iam\_roles](#module\_iam\_roles) | github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles | v1.536.1 |
 | <a name="module_this"></a> [this](#module\_this) | cloudposse/label/null | 0.25.0 |
 | <a name="module_utils_example_complete"></a> [utils\_example\_complete](#module\_utils\_example\_complete) | cloudposse/utils/aws | 1.4.0 |
 
@@ -96,5 +98,7 @@ provider "datadog" {
 | <a name="output_datadog_secrets_store_type"></a> [datadog\_secrets\_store\_type](#output\_datadog\_secrets\_store\_type) | The type of the secrets store to use for Datadog API and APP keys |
 | <a name="output_datadog_site"></a> [datadog\_site](#output\_datadog\_site) | Datadog Site |
 | <a name="output_datadog_tags"></a> [datadog\_tags](#output\_datadog\_tags) | The Context Tags in datadog tag format (list of strings formatted as 'key:value') |
+<!-- markdownlint-restore -->
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+
 <!-- prettier-ignore-end -->
